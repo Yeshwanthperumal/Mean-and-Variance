@@ -49,7 +49,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 
-'''
+```
 DEVELOPED BY : YESHWANTH.P
 REG. NO: 212222230178
 import numpy as np
@@ -74,7 +74,7 @@ SD=np.sqrt(var)
 print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var)
 print("The Standard deviation of arrival from feeder is %.3F "%SD
-'''
+```
 
 # Output : 
 ![Screenshot 2023-10-31 190039](https://github.com/Yeshwanthperumal/Mean-and-Variance/assets/119476088/a48aa4af-19a7-42e6-936b-fe3caa923119)
